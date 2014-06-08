@@ -1,0 +1,7 @@
+Revision history for Perl module WWW::RabbitMQ::Cluster
+
+0.01 Fri Jun  6 14:38:49 2014
+    - first commit
+
+0.02 Sat Jun  7 21:35:49 2014
+    - change the namespace to something less broad
